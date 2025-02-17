@@ -1,2 +1,4 @@
 .pythonForFinancialMarketsVenvConda/
 ***.iml
+data-export/
+.ipynb_checkpoints/
